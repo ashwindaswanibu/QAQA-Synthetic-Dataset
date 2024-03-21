@@ -25,7 +25,7 @@ Explore the comprehensive findings in our [paper](http://arxiv.org/abs/2403.1214
 
 ## Cite This Work
 ```bibtex
-@article{acl2024synqa2,
+@article{daswani-etal-2024-synqa2,
   title={Syn-QA2: Evaluating False Assumptions in Long-tail Questions with Synthetic QA Datasets},
   author={Daswani, A., Sawant, R., & Kim, N.},
   journal={ArXiv},
